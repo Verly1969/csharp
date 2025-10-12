@@ -1,0 +1,15 @@
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/bin/Debug/net6.0/NombreMystere
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/bin/Debug/net6.0/NombreMystere.deps.json
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/bin/Debug/net6.0/NombreMystere.runtimeconfig.json
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/bin/Debug/net6.0/NombreMystere.dll
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/bin/Debug/net6.0/NombreMystere.pdb
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.csproj.AssemblyReference.cache
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.AssemblyInfoInputs.cache
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.AssemblyInfo.cs
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.csproj.CoreCompileInputs.cache
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.dll
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/refint/NombreMystere.dll
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.pdb
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/NombreMystere.genruntimeconfig.cache
+/Users/verlyeddy/Desktop/csharp/NombreMystere/NombreMystere/obj/Debug/net6.0/ref/NombreMystere.dll
