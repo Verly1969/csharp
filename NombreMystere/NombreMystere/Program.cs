@@ -1,7 +1,6 @@
 ﻿/*
  Find the mystery number
  */
-using System;
 
 const int life = 10;
 int remainingLife = life;
@@ -11,6 +10,18 @@ int numberTimes = 1;
 
 Random random = new Random();
 int mystery = random.Next(min, max);
+
+void singularPlurial(int life)
+{
+    if (life == 1)
+    {
+        Console.WriteLine($"You have {life} life left");
+    }
+    else
+    {
+        Console.WriteLine($"You have {life} lifes left");
+    }
+}
 
 Console.WriteLine("#################################");
 Console.WriteLine("#                               #");
@@ -34,14 +45,7 @@ while(remainingLife > 0)
         remainingLife--;
         numberTimes++;
 
-        if(remainingLife == 1)
-        {
-            Console.WriteLine($"You have {remainingLife} life left");
-        }
-        else
-        {
-            Console.WriteLine($"You have {remainingLife} lifes left");
-        }
+        singularPlurial(remainingLife);
         
     }
     else if(chosenNumber < mystery)
@@ -50,14 +54,7 @@ while(remainingLife > 0)
         remainingLife--;
         numberTimes++;
 
-        if (remainingLife == 1)
-        {
-            Console.WriteLine($"You have {remainingLife} life left");
-        }
-        else
-        {
-            Console.WriteLine($"You have {remainingLife} lifes left");
-        }
+        singularPlurial(remainingLife);
     }
     else
     {
@@ -70,3 +67,16 @@ while(remainingLife > 0)
         break;
     }
 }
+
+if(remainingLife == 0)
+{
+    Console.WriteLine("##############################");
+    Console.WriteLine("#                            #");
+    Console.WriteLine("#      Sorry, you lose !     #");
+    Console.WriteLine("#                            #");
+    Console.WriteLine("##############################");
+    Console.WriteLine("You have no more life");
+    Console.WriteLine($"You have used up the {life} lives you had.");
+}
+
+Console.WriteLine("Thanks for playing");
